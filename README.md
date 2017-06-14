@@ -29,5 +29,5 @@ TODO: Guide users through getting your code up and running on their own system. 
 TODO: all
 
 #Contribute
-    put your comments on themigrationwizard.com 
+    put your comments on http://themigrationwizard.com/configure-sql-server-options-by-dsc/ to let me know which DSC resource you want to see next.
     
