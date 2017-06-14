@@ -29,4 +29,5 @@ TODO: Guide users through getting your code up and running on their own system. 
 TODO: all
 
 #Contribute
-    put your comments on themigrationwizard.comments
+    put your comments on themigrationwizard.com 
+    
